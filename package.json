@@ -1,0 +1,10 @@
+{
+  "name": "@unerp/config",
+  "version": "1.0.1",
+  "description": "Shared configuration for ESLint, TypeScript, and Prettier",
+  "files": [
+    "typescript",
+    "prettier",
+    "README.md"
+  ]
+}
