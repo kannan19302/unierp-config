@@ -1,6 +1,6 @@
 {
   "name": "@unerp/config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shared configuration for ESLint, TypeScript, and Prettier",
   "files": [
     "typescript",
