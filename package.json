@@ -6,5 +6,8 @@
     "typescript",
     "prettier",
     "README.md"
-  ]
+  ],
+  "scripts": {
+    "build": "node -e \"console.log('@unerp/config ships configuration only — nothing to build')\""
+  }
 }
